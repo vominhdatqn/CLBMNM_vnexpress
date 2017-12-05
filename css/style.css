@@ -1,0 +1,21 @@
+body{
+	font-family: Time New Roman;
+}
+
+/*header*/
+.top-bar {
+    background-color: #dcd4d4;
+}
+.top-bar-inside {
+    width: 989px;
+    margin: 0 auto;
+}
+ul.contact-info {
+    width: 60%;
+    list-style-type: none;
+}
+ul.user-log {
+    width: 40%;
+    float: left;
+    list-style-type: none;
+}
